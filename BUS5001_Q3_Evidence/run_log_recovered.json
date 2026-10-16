@@ -1,0 +1,65 @@
+[
+  {
+    "message_id": "M1",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "transformers_version": "4.57.6",
+    "gpu": "Tesla T4",
+    "do_sample": false,
+    "max_new_tokens": 700,
+    "elapsed_seconds": 6.65,
+    "json_syntax_valid": false,
+    "json_syntax_valid_after_wrapper_removal": true,
+    "started_at_utc": null,
+    "model_revision": null,
+    "generated_tokens": null,
+    "recovery_source": "Saved notebook cell 4 output; generation settings from cell source",
+    "unavailable_fields": [
+      "started_at_utc",
+      "model_revision",
+      "generated_tokens",
+      "original_parse_error"
+    ]
+  },
+  {
+    "message_id": "M2",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "transformers_version": "4.57.6",
+    "gpu": "Tesla T4",
+    "do_sample": false,
+    "max_new_tokens": 700,
+    "elapsed_seconds": 4.49,
+    "json_syntax_valid": false,
+    "json_syntax_valid_after_wrapper_removal": true,
+    "started_at_utc": null,
+    "model_revision": null,
+    "generated_tokens": null,
+    "recovery_source": "Saved notebook cell 4 output; generation settings from cell source",
+    "unavailable_fields": [
+      "started_at_utc",
+      "model_revision",
+      "generated_tokens",
+      "original_parse_error"
+    ]
+  },
+  {
+    "message_id": "M3",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "transformers_version": "4.57.6",
+    "gpu": "Tesla T4",
+    "do_sample": false,
+    "max_new_tokens": 700,
+    "elapsed_seconds": 4.44,
+    "json_syntax_valid": false,
+    "json_syntax_valid_after_wrapper_removal": true,
+    "started_at_utc": null,
+    "model_revision": null,
+    "generated_tokens": null,
+    "recovery_source": "Saved notebook cell 4 output; generation settings from cell source",
+    "unavailable_fields": [
+      "started_at_utc",
+      "model_revision",
+      "generated_tokens",
+      "original_parse_error"
+    ]
+  }
+]

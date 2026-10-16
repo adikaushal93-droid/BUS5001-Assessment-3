@@ -1,0 +1,72 @@
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+
+Running M1...
+```json
+{
+  "message_id": "M1",
+  "issues": [
+    {
+      "issue_category": "WATER_LEAK",
+      "location": "Building C",
+      "urgency": "CRITICAL",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "Facilities",
+      "escalation_reason": null,
+      "data_sensitivity_risk": "HIGH",
+      "human_review_required": "Y",
+      "brief_summary": "Water leak detected in Building C near an electrical socket. Water spread across the floor."
+    }
+  ]
+}
+```
+JSON syntax valid: False
+Elapsed seconds: 6.65
+
+Running M2...
+```json
+{
+  "message_id": "M2",
+  "issues": [
+    {
+      "issue_category": "ENERGY_WASTE",
+      "location": null,
+      "urgency": "HIGH",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "Facilities",
+      "escalation_reason": null,
+      "data_sensitivity_risk": "MEDIUM",
+      "human_review_required": "N",
+      "brief_summary": "Air conditioning running overnight in an empty office."
+    }
+  ]
+}
+```
+JSON syntax valid: False
+Elapsed seconds: 4.49
+
+Running M3...
+```json
+{
+  "message_id": "M3",
+  "issues": [
+    {
+      "issue_category": "ACCESSIBILITY",
+      "location": "Building B",
+      "urgency": "LOW",
+      "sentiment": "NEGATIVE",
+      "followup_required": "N",
+      "recommended_team": "Accessibility Support",
+      "escalation_reason": null,
+      "data_sensitivity_risk": "LOW",
+      "human_review_required": "Y",
+      "brief_summary": "Accessible entrance to Building B blocked by delivery boxes."
+    }
+  ]
+}
+```
+JSON syntax valid: False
+Elapsed seconds: 4.44
+
+All three model runs completed.

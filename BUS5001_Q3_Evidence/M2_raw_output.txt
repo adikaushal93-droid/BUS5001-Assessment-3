@@ -1,0 +1,19 @@
+```json
+{
+  "message_id": "M2",
+  "issues": [
+    {
+      "issue_category": "ENERGY_WASTE",
+      "location": null,
+      "urgency": "HIGH",
+      "sentiment": "NEGATIVE",
+      "followup_required": "Y",
+      "recommended_team": "Facilities",
+      "escalation_reason": null,
+      "data_sensitivity_risk": "MEDIUM",
+      "human_review_required": "N",
+      "brief_summary": "Air conditioning running overnight in an empty office."
+    }
+  ]
+}
+```

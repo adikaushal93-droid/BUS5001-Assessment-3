@@ -1,0 +1,6 @@
+{
+  "source_notebook": "BUS5001_Q3_ESG_Triage.ipynb",
+  "source_sha256": "9299ead76def16ae3a4b43c80c656cffebe19ce94716ff1631e4656f07a96e03",
+  "recovery_method": "Static notebook source and saved-output extraction; no notebook code execution or inference",
+  "model_rerun": false
+}

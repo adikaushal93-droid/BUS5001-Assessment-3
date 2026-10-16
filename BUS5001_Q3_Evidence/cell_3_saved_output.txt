@@ -1,0 +1,11 @@
+Transformers version: 4.57.6
+Loading model: Qwen/Qwen2.5-1.5B-Instruct
+/usr/local/lib/python3.13/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: 
+The secret `HF_TOKEN` does not exist in your Colab secrets.
+To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session.
+You will be able to reuse this secret in all of your notebooks.
+Please note that authentication is recommended but still optional to access public models or datasets.
+  warnings.warn(
+`torch_dtype` is deprecated! Use `dtype` instead!
+Model loaded successfully.
+Model device: cuda:0

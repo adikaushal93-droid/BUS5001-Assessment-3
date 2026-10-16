@@ -1,0 +1,4 @@
+message_id,qwen_category,baseline_category,qwen_urgency,baseline_urgency,qwen_team,baseline_team,qwen_followup,baseline_followup
+M1,WATER_LEAK,WATER_LEAK,CRITICAL,CRITICAL,Facilities,Emergency/Security,Y,Y
+M2,ENERGY_WASTE,ENERGY_WASTE,HIGH,MEDIUM,Facilities,Facilities,Y,Y
+M3,ACCESSIBILITY,ACCESSIBILITY,LOW,HIGH,Accessibility Support,Accessibility Support,N,Y

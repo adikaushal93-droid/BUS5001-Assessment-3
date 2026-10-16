@@ -1,0 +1,23 @@
+[
+  {
+    "message_id": "M1",
+    "issue_category": "WATER_LEAK",
+    "urgency": "CRITICAL",
+    "recommended_team": "Emergency/Security",
+    "followup_required": "Y"
+  },
+  {
+    "message_id": "M2",
+    "issue_category": "ENERGY_WASTE",
+    "urgency": "MEDIUM",
+    "recommended_team": "Facilities",
+    "followup_required": "Y"
+  },
+  {
+    "message_id": "M3",
+    "issue_category": "ACCESSIBILITY",
+    "urgency": "HIGH",
+    "recommended_team": "Accessibility Support",
+    "followup_required": "Y"
+  }
+]

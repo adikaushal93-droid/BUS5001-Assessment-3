@@ -1,0 +1,19 @@
+```json
+{
+  "message_id": "M3",
+  "issues": [
+    {
+      "issue_category": "ACCESSIBILITY",
+      "location": "Building B",
+      "urgency": "LOW",
+      "sentiment": "NEGATIVE",
+      "followup_required": "N",
+      "recommended_team": "Accessibility Support",
+      "escalation_reason": null,
+      "data_sensitivity_risk": "LOW",
+      "human_review_required": "Y",
+      "brief_summary": "Accessible entrance to Building B blocked by delivery boxes."
+    }
+  ]
+}
+```

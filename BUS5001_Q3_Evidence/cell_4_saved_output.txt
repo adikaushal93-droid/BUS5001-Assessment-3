@@ -1,0 +1,2 @@
+Prompt and three test messages saved.
+Ready to run the model.
