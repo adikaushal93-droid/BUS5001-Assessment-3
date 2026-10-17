@@ -1,0 +1,41 @@
+Q4 – Google NotebookLM Experiment Log
+Date: 16 October 2026
+
+Scenario:
+A postgraduate student preparing cloud security revision materials.
+
+Notebook:
+BUS5001 Q4 – Cloud Security Study
+
+Source:
+UNC5537 Targets Snowflake Customer Instances for Data Theft and Extortion
+https://cloud.google.com/blog/topics/threat-intelligence/unc5537-snowflake-data-theft-extortion
+
+Test 1 – Summarisation
+Requested a 150-word summary with citations.
+The response covered stolen credentials, three security weaknesses,
+and the distinction between customer compromise and a breach of
+Snowflake itself. The response exceeded the requested length.
+
+Test 2 – Cited Question Answering
+Asked whether exactly 165 organisations suffered confirmed breaches.
+The response distinguished approximately 165 potentially exposed
+organisations from a confirmed breach total.
+An inspected summary citation supported missing MFA, unrotated
+credentials and missing network allowlists.
+
+Test 3 – Mind Map
+Generated and expanded the causes, security gaps and mitigation branches.
+The map organised key concepts for revision.
+Short labels compressed context and required source checking.
+
+Test 4 – Quiz
+Attempted two generated questions and inspected explanatory feedback.
+The feedback covered stolen credentials, missing MFA and network
+allowlists, and rejected an unsupported Active Directory explanation.
+
+Evaluation Limits:
+One source and one academic scenario were tested.
+Only two quiz questions were inspected.
+No formal learning improvement or time saving was measured.
+The results do not establish general reliability.
